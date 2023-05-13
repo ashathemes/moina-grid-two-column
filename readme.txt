@@ -54,7 +54,7 @@ Source: https://pxhere.com/en/photo/670082
 * Image for theme screenshot four, Copyright Pxhere
 License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://pxhere.com/en/license
-Source: https://pxhere.com/en/photo/730866
+Source: https://pxhere.com/en/photo/41236
 
 
 == Credits ==
